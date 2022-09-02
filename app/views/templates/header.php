@@ -17,17 +17,17 @@
 
     <title><?=$data['title'];?></title>
 
-    <link href="<?=$base_url;?>css/bootstrap.min.css" rel="stylesheet">
-    <link href="<?=$base_url;?>font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/font-awesome/css/font-awesome.css" rel="stylesheet">
 
     <!-- Toastr style -->
-    <link href="<?=$base_url;?>css/plugins/toastr/toastr.min.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/css/plugins/toastr/toastr.min.css" rel="stylesheet">
 
     <!-- Gritter -->
-    <link href="<?=$base_url;?>js/plugins/gritter/jquery.gritter.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/js/plugins/gritter/jquery.gritter.css" rel="stylesheet">
 
-    <link href="<?=$base_url;?>css/animate.css" rel="stylesheet">
-    <link href="<?=$base_url;?>css/style.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/css/animate.css" rel="stylesheet">
+    <link href="<?=BASE_URL;?>/css/style.css" rel="stylesheet">
 
 </head>
 
