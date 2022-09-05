@@ -13,7 +13,6 @@
                     <p>
                         Anda dapat memilih modul sesuai akses yang telah kami berikan pada kolom menu.
                     </p>
-                    <?php echo $base_url;?>
                 </div>
             </div>
         </div>

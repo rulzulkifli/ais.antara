@@ -24,7 +24,7 @@
                 <a href="<?= BASE_URL;?>/home"><i class="fa fa-database"></i> <span class="nav-label">Beranda</span></a>
             </li>
             <li>
-                <a href="<?= BASE_URL;?>/home"><i class="fa fa-th-large"></i> <span class="nav-label">Penjualan</span> <span class="fa arrow"></span></a>
+                <a href=""><i class="fa fa-th-large"></i> <span class="nav-label">Penjualan</span> <span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level">
                     <li><a href="<?= BASE_URL;?>/penjualan/daftar_penawaran">Surat Penawaran</a></li>
                     <li><a href="<?= BASE_URL;?>/penjualan/daftar_pesanan">Pesanan Penjualan</a></li>
