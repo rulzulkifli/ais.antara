@@ -29,6 +29,10 @@
     <link href="<?=BASE_URL;?>/css/animate.css" rel="stylesheet">
     <link href="<?=BASE_URL;?>/css/style.css" rel="stylesheet">
 
+    <!--Jquery-->    
+    <script src="<?=BASE_URL;?>/js/jquery-3.1.1.min.js"></script>
+    <!-- jQuery UI -->
+    <script src="<?=BASE_URL;?>/js/plugins/jquery-ui/jquery-ui.min.js"></script>
 </head>
 
 <body>
